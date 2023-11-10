@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinchuan1116&label=Profile%20views&color=0e75b6&style=flat" alt="chinchuan1116" /> </p>
 
 <h2>About Me</h2>
-👦🏻 I'm Lim Chin Chuan. A `Software Developer` and `Web Application Developer`
+👦🏻 I'm Lim Chin Chuan. A Software Developer and Web Application Developer
 
 📚 Self Taught Developer learn from Online
 
