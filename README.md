@@ -19,7 +19,7 @@
 
 📫 Reach me at chinchuan49@gmail.com
 
-👨‍💻 All of my projects are available at <a href="https://aboutcc.netlify.app" target="_blank">https://aboutcc.netlify.app</a>
+👨‍💻 All of my projects are available at <a href="https://aboutcc.netlify.app" target="_blank">https://chinchuan-id.netlify.app/</a>
 <br/>
 <br/>
 
